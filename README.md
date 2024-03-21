@@ -1,1 +1,2 @@
 # Automatic-Number-Plate-Detection
+An automatic number plate detection model is capable of identifying the location of a number plate within vehicle images. Upon successful detection, it delineates the number plate image, also known as the region of interest. Subsequently, we employ PyTesseract for character recognition from the extracted number plate image. This process facilitates the conversion of visual data into a textual format.
